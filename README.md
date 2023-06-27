@@ -20,7 +20,7 @@
 ---
 
 ### Brief Overview about the project
-An e-commerce platform is where shoppers may engage directly with the vendor before purchasing their items. Live chat is an excellent technique to communicate with prospective and current consumers and instill trust in them to use your product or spend money on your website. This enables your users to fix problems in real time. Customers may obtain replies fast by using live chat. They'll spend less time waiting for a solution or digging through your website's knowledge library.
+An e-commerce platform is where shoppers may engage directly with the vendor before purchasing their items. Live chat is an excellent technique to communicate with prospective and current consumers and instill trust in them to use your product or spend money on your website. This enables your users to fix problems in real time. Customers may obtain replies fast by using live chat. They'll spend less time waiting for a solution or digging through our website's knowledge library.
 
 [To Know More about our project, please click here](https://github.com/tallam-git/live_chat/files/11870426/44618-Section2-Group2-Milestone1.docx)
 
